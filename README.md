@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aanand Pandey</h1>
 <h3 align="center">A passionate Embedded Systems & IoT Developer from India</h3>
-<img align="right" alt="coding" width="400" scr="[Nft Coding GIF - Find & Share on GIPHY](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNGR5eHd4Y21yamRkcHd1bDAyY2IwbzN6aWNudXR2aGNmbWdlMHZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)"
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNGR5eHd4Y21yamRkcHd1bDAyY2IwbzN6aWNudXR2aGNmbWdlMHZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanand-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="aanand-pandey" /> </p>
@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanand-pandey&" alt="aanand-pandey" /></p>
 
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> 
+
