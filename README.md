@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anand868984@gmail.com**
 
-- 📄 Know about my experiences [[]]([])
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1l72m2SaTn77dcvWw8DCkPmVmD1Kv1Gm0/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
